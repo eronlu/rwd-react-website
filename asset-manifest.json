@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rwd-react-website/static/css/main.34b216e7.css",
+    "main.js": "/rwd-react-website/static/js/main.a6e3831c.js",
+    "static/media/img-2.jpg": "/rwd-react-website/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/rwd-react-website/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/rwd-react-website/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/rwd-react-website/index.html",
+    "main.34b216e7.css.map": "/rwd-react-website/static/css/main.34b216e7.css.map",
+    "main.a6e3831c.js.map": "/rwd-react-website/static/js/main.a6e3831c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34b216e7.css",
+    "static/js/main.a6e3831c.js"
+  ]
+}
