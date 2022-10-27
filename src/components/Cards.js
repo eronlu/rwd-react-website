@@ -10,7 +10,7 @@ const Cards = () => {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="./rwd-react-website/images/img-9.jpg"
+              src="/rwd-react-website/images/img-9.jpg"
               text="Explore the hidden waterfall deep"
               label="Adventure"
               paht="/services"
@@ -24,19 +24,19 @@ const Cards = () => {
           </ul>
           <ul className="cards__items">
             <CardItem
-              src="./rwd-react-website/images/img-6.jpg"
+              src="/rwd-react-website/images/img-6.jpg"
               text="Guess u dont notice this text"
               label="City"
               paht="/services"
             />
             <CardItem
-              src="./rwd-react-website/images/img-4.jpg"
+              src="/rwd-react-website/images/img-4.jpg"
               text="English has better look in this area."
               label="Sport"
               paht="/services"
             />
             <CardItem
-              src="./rwd-react-website/images/img-8.jpg"
+              src="/rwd-react-website/images/img-8.jpg"
               text="Must come, because sand is fun, or u can just take a rock pet."
               label="Sand"
               paht="/services"
