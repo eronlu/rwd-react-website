@@ -10,13 +10,13 @@ const Cards = () => {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="/react-rwd-website/images/img-9.jpg"
+              src="./react-rwd-website/images/img-9.jpg"
               text="Explore the hidden waterfall deep"
               label="Adventure"
               paht="/services"
             />
             <CardItem
-              src="react-rwd-website/images/img-2.jpg"
+              src="./react-rwd-website/images/img-2.jpg"
               text="Travel through the Islands of Bali in a Private Cruise"
               label="Luxury"
               paht="/services"
