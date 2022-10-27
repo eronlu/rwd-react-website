@@ -10,7 +10,7 @@ const Cards = () => {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="./react-rwd-website/images/img-9.jpg"
+              src="./react-rwd-website/public/images/img-9.jpg"
               text="Explore the hidden waterfall deep"
               label="Adventure"
               paht="/services"
