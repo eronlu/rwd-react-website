@@ -1,6 +1,6 @@
 {
   "homepage": "https://eronlu.github.io/rwd-react-website",
-  "name": "rwd-website",
+  "name": "rwd-react-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
